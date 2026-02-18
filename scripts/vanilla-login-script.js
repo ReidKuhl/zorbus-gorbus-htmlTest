@@ -23,6 +23,5 @@ document.addEventListener('submit', function (event) {
   console.log('session password:', password);
 
   window.location.assign("content.html");
-
 });
 
